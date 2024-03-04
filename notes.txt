@@ -1,0 +1,27 @@
+Username and Passwords
+
+superuser
+username:admin
+Password:admin123
+
+Users
+Managers
+
+username:peter
+Password:littlelemon
+
+DeliveryCrew
+
+username:justin
+Password:littlelemon
+
+Customers
+
+username:akhil
+Password:littlelemon
+
+username:sam
+Password:littlelemon
+
+username:rahul
+Password:littlelemon
